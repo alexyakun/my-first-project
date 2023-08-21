@@ -3,7 +3,7 @@ package ru.mpei;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
-        System.out.println("Hellodds world!");
+        System.out.println("Helloddjhjs world!");
 
     }
 }
